@@ -15,4 +15,11 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>ark20192c.mylabserver.com-snapshots</name>
+        <url>http://ark20192c.mylabserver.com:8081/artifactory/libs-snapshot-local</url>
+    </snapshotRepository>
+</distributionManagement>
 </project>
