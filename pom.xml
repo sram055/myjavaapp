@@ -18,13 +18,13 @@
  <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>172.31.110.170-snapshots</name>
-        <url>http://172.31.110.170:8081/artifactory/libs-snapshot</url>
+        <name>ark20192c.mylabserver.com-snapshots</name>
+        <url>http://ark20192c.mylabserver.com:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
-   <repository>
+    <repository>
         <id>central</id>
-        <name>172.31.110.170-releases</name>
-        <url>http://172.31.110.170:8081/artifactory/libs-release</url>
+        <name>ark20192c.mylabserver.com-releases</name>
+        <url>http://ark20192c.mylabserver.com:8081/artifactory/libs-release</url>
     </repository>
 </distributionManagement>
 </project>
