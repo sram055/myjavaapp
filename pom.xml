@@ -18,7 +18,6 @@
   <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
-<<<<<<< HEAD
         <name>172.31.110.170-snapshots</name>
         <url>http://172.31.110.170:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
@@ -27,10 +26,8 @@
         <name>172.31.110.170-releases</name>
         <url>http://172.31.110.170:8081/artifactory/libs-release</url>
     </repository>
-=======
         <name>ark20192c.mylabserver.com-snapshots</name>
         <url>http://ark20192c.mylabserver.com:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
->>>>>>> parent of fd0d67b... Update pom.xml
 </distributionManagement>
 </project>
