@@ -16,6 +16,11 @@
     </dependency>
   </dependencies>
   <distributionManagement>
+     <repository>
+        <id>central</id>
+        <name>ark20192c.mylabserver.com-releases</name>
+        <url>http://ark20192c.mylabserver.com:8081/artifactory/libs-release</url>
+    </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>ark20192c.mylabserver.com-snapshots</name>
